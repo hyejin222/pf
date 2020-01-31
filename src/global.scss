@@ -1,0 +1,83 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+	border-collapse: collapse;
+	box-sizing: border-box;
+	-webkit-text-size-adjust: none;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+	display: block;
+}
+
+body {
+	width: 100%;
+	height: 100%;
+	font-family: 'Noto Sans KR', sans-serif;
+	color: #1a1a1a;
+	line-height: 1.5;
+	font-size: 14px;
+	overflow-x: hidden;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+ol,
+ul,
+li {
+	list-style: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+input {
+	margin: 0;
+	padding: 0;
+	box-sizing: content-box;
+	vertical-align: top;
+	appearance: none;
+	border-radius: 0;
+}
+
+dd {
+	-webkit-margin-start: 0;
+}
+
+ul {
+	-webkit-padding-start: 0;
+	list-style-position: inside;
+}
+
+span {
+	font-size: inherit;
+	color: inherit;
+	font-weight: inherit;
+}
+
+b {
+	font-size: inherit;
+	color: inherit;
+}
+
+br {
+	line-height: inherit;
+}
